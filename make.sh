@@ -1,1 +1,1 @@
-g++ -std=c++11 -g -o Test test.cpp -I ./
+g++ -std=c++17 -g -o Test test.cpp -I ./ -pthread
